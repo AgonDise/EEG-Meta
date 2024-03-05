@@ -1,0 +1,4 @@
+data/
+EEG_Spectrograms/
+eeg_specs.npy
+MLP_Model
